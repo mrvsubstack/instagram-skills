@@ -1,0 +1,34 @@
+{
+  "name": "instagram-skills",
+  "owner": {
+    "name": "Mr.V",
+    "url": "https://github.com/mrvsubstack"
+  },
+  "metadata": {
+    "description": "9 Claude skills for Instagram: caption writer, carousel planner, content planner, hashtag strategist, hook extractor, profile optimizer, repurposer, humanizer, plus a Postiz publisher that schedules approved posts."
+  },
+  "plugins": [
+    {
+      "name": "instagram-skills",
+      "source": "./",
+      "description": "9 Claude skills for Instagram: caption writer, carousel planner, content planner, hashtag strategist, hook extractor, profile optimizer, repurposer, humanizer, plus a Postiz publisher that schedules approved posts.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Mr.V",
+        "url": "https://github.com/mrvsubstack"
+      },
+      "homepage": "https://github.com/mrvsubstack/instagram-skills",
+      "license": "MIT",
+      "keywords": [
+        "instagram",
+        "social-media",
+        "marketing",
+        "content",
+        "claude-skills",
+        "postiz",
+        "scheduling"
+      ],
+      "category": "productivity"
+    }
+  ]
+}
